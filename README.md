@@ -136,11 +136,13 @@ maxIter=20
 - Python environment with `pyspark` installed
 - `customer_churn.csv` placed in the project directory
 
-### 2. Run the Project
+### 2. Run the python file data-generator.py for the dataset
 
-### 2. Run the Pr
+### 2. Run the spark code
 
 ```bash
-spark-submit churn_prediction.py
+spark-submit customer-churn_analysis.py
 ```
-### Make sure to include your original ouput and explain the code
+### Output is provided in the text files 
+
+###
